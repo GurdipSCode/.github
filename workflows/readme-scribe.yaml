@@ -1,0 +1,45 @@
+name: readme-scribe
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 */1 * *'
+  push:
+    branches:
+      - 'master'
+
+jobs:
+  readme-scribe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v4
+      - uses: muesli/readme-scribe@5a187a2a36ef894335f17a7d01c32b0e28c6d948
+        with:
+          template: templates/README.md.tpl
+          writeTo: README.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+      - name: replace placeholder for badge tag
+        uses: jacobtomlinson/gha-find-replace@v3
+        with:
+          find: "badges_tag"
+          replace: |
+            <!--START_SECTION:badges-->
+            <!--END_SECTION:badges-->
+          include: README.md
+      - uses: stefanzweifel/git-auto-commit-action@8621497c8c39c72f3e2a999a26b4ca1b5058a842
+        with:
+          commit_message: 'Update generated README'
+          branch: master
+          commit_user_name: readme-scribe 🤖
+          commit_user_email: actions@github.com
+          commit_author: readme-scribe 🤖 <actions@github.com>
+      - uses: pemtajo/badge-readme@2.4.0
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MESSAGE: "Update badges from credly"
+          CREDLY_USER: gurdip-sira
+          CREDLY_SORT: POPULAR
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
