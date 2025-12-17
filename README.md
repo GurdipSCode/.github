@@ -1,8 +1,50 @@
-# 👋 Hi, I'm Gurdip
+![hello](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
+
+## 👉 Gurdip Sira
 
 DevOps & Application Security Lead specialising in **cloud platforms, secure CI/CD, Kubernetes, and regulated environments**. I design and lead platforms that balance **developer velocity, security, and auditability** — making complex systems reliable, observable, and boring (by design).
 
----
+## 🎬 My Activities
+
+#### 📖 My latest blog posts
+
+#### 👷 I'm currently working on
+
+- [GurdipSCode/.github](https://github.com/GurdipSCode/.github) -  (today)
+- [GurdipSCode/GurdipSCode](https://github.com/GurdipSCode/GurdipSCode) -  (today)
+- [GurdipSCode/devops-experiments-platform-explainability](https://github.com/GurdipSCode/devops-experiments-platform-explainability) - Platform Explainability enables automated, repeatable evaluation and explanation of ML models, pipelines, and platform decisions, integrating observability, GitOps, and audit-ready reporting. (1 day ago)
+- [GurdipSCode/devops-kubernetes-gitops-troubleshoot](https://github.com/GurdipSCode/devops-kubernetes-gitops-troubleshoot) -  (1 day ago)
+- [GurdipSCode/devops-experiments-postmortems-as-code](https://github.com/GurdipSCode/devops-experiments-postmortems-as-code) - Framework for postmorterms-as-code (2 days ago)
+
+#### 🚀 Latest releases I contributed to
+
+
+#### ⭐ Latest repositories I starred
+
+- [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people! - 5698 stars
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers - 136226 stars
+- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources - 18118 stars
+- [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.  - 11301 stars
+- [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) - An encyclopedia for offensive and defensive security knowledge in cloud native technologies. - 2398 stars
+- [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇦🇪🇧🇦🇧🇷🇫🇷🇬🇪🇩🇪🇬🇷🇮🇱🇮🇳🇮🇩🇮🇹🇯🇵🇰🇷🇵🇱🇷🇴🇨🇳🇪🇸🇹🇷🇺🇦🇵🇰 - 2409 stars
+- [ramanagali/Interview_Guide](https://github.com/ramanagali/Interview_Guide) - Interview, Certification preparation guide for Cloud DevOps professionals - 531 stars
+- [NotHarshhaa/DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) - 𝑫𝒆𝒗𝑶𝒑𝒔 𝑹𝒆𝒂𝒍 𝑾𝒐𝒓𝒍𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒔 [𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒕𝒐 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅] - 2864 stars
+- [rohitg00/devops-interview-questions](https://github.com/rohitg00/devops-interview-questions) - Creating this repository as a central hub for all DevOps interview questions to help you land your next job. - 1689 stars
+- [ahmedtariq01/Cloud-DevOps-Learning-Resources](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources) - This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes. - 1728 stars
+
+#### 👥 Latest follower
+
+- [dkargatzis](https://github.com/dkargatzis) - 
+- [SathishGajendran](https://github.com/SathishGajendran) - Sathish Gajendran
+- [mjad-org](https://github.com/mjad-org) - Matt D&#39;Albert
+
+#### 👨‍💻 Repositories I created recently
+
+- [GurdipS5/Test2](https://github.com/GurdipS5/Test2)
+- [GurdipS5/devops-policies-opnsense](https://github.com/GurdipS5/devops-policies-opnsense)
+- [GurdipS5/TeamWorkingAgreement](https://github.com/GurdipS5/TeamWorkingAgreement)
+- [GurdipS5/AgentBootstrapper](https://github.com/GurdipS5/AgentBootstrapper)
+- [GurdipS5/Falco.UsefulRules](https://github.com/GurdipS5/Falco.UsefulRules) - Curated useful rules for Falco deployment
 
 ## 🧭 Focus Areas
 
@@ -12,13 +54,16 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 - Observability, SLOs, and operational resilience
 - Reducing risk and toil through automation, standards, and guardrails
 
----
+## 🏗️ My Projects
 
-<!--START_SECTION:badges-->
 
-<!--END_SECTION:badges-->
+## 🎓 Certificates & Trainings
 
-## 🧰 Technology Stack
+
+
+
+
+## 💻 Technologies & Tools
 
 ### ☁️ Cloud & Kubernetes Platforms
 
@@ -64,25 +109,9 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 
----
+## ⚡ GitHub Stats
 
-## 🧠 Leadership Principles
+![dirien](https://github-readme-stats.vercel.app/api?username=dirien&show_icons=true&count_private=true&theme=dracula)
 
-- **Security as an enabler**, not a blocker
-- Platform teams as product teams
-- Guardrails over gates
-- Observable systems over blind faith
-- Automation before process
-
----
-
-## 📫 About Me
-
-- 💼 DevOps / AppSec Lead
-- ☁️ Azure • Kubernetes • GitOps • Terraform
-- 🔐 DevSecOps & software supply-chain security
-- 🏦 Experience operating in highly regulated environments
-
----
-
-> "If it’s not automated, it’s broken — if it’s not observable, it’s a liability."
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dirien)
+[![GitHub followers](https://img.shields.io/github/followers/dirien.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/dirien?tab=followers)
