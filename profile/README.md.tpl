@@ -1,8 +1,35 @@
-# 👋 Hi, I'm Gurdip
+## 👉 Gurdip Sira
 
 DevOps & Application Security Lead specialising in **cloud platforms, secure CI/CD, Kubernetes, and regulated environments**. I design and lead platforms that balance **developer velocity, security, and auditability** — making complex systems reliable, observable, and boring (by design).
 
----
+## 🎬 My Activities
+
+#### 📖 My latest blog posts
+
+#### 👷 I'm currently working on
+{{range recentContributions 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+
+#### 🚀 Latest releases I contributed to
+{{range recentReleases 5}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{ with .Description }} - {{.}}{{ end }}
+{{- end}}
+
+#### ⭐ Latest repositories I starred
+{{range recentStars 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} - {{.Repo.Stargazers}} stars
+{{- end}}
+
+#### 👥 Latest follower
+{{range followers 5}}
+- [{{.Login}}]({{.URL}}) - {{.Name}}
+{{- end}}
+
+#### 👨‍💻 Repositories I created recently
+{{range recentRepos 5}}
+- [{{.Name}}]({{.URL}}){{ with .Description }} - {{.}}{{ end }}
+{{- end}}
 
 ## 🧭 Focus Areas
 
@@ -12,9 +39,16 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 - Observability, SLOs, and operational resilience
 - Reducing risk and toil through automation, standards, and guardrails
 
----
+## 🏗️ My Projects
 
-## 🧰 Technology Stack
+
+## 🎓 Certificates & Trainings
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+
+## 💻 Technologies & Tools
 
 ### ☁️ Cloud & Kubernetes Platforms
 
@@ -60,25 +94,9 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 
----
+## ⚡ GitHub Stats
 
-## 🧠 Leadership Principles
+![dirien](https://github-readme-stats.vercel.app/api?username=dirien&show_icons=true&count_private=true&theme=dracula)
 
-- **Security as an enabler**, not a blocker
-- Platform teams as product teams
-- Guardrails over gates
-- Observable systems over blind faith
-- Automation before process
-
----
-
-## 📫 About Me
-
-- 💼 DevOps / AppSec Lead
-- ☁️ Azure • Kubernetes • GitOps • Terraform
-- 🔐 DevSecOps & software supply-chain security
-- 🏦 Experience operating in highly regulated environments
-
----
-
-> "If it’s not automated, it’s broken — if it’s not observable, it’s a liability."
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dirien)
+[![GitHub followers](https://img.shields.io/github/followers/dirien.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/dirien?tab=followers)
