@@ -10,11 +10,11 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 #### 👷 I'm currently working on
 
-- [GurdipSCode/devops-policies-mondoo](https://github.com/GurdipSCode/devops-policies-mondoo) - OPA Policies for Mondoo (1 day ago)
-- [GurdipSCode/devops-kubernetes-gitops-cilium](https://github.com/GurdipSCode/devops-kubernetes-gitops-cilium) - Cilium (1 day ago)
-- [GurdipSCode/devops-terraform-modules-github](https://github.com/GurdipSCode/devops-terraform-modules-github) - Terraform module for GitHub (1 day ago)
+- [GurdipSCode/devops-policies-mondoo](https://github.com/GurdipSCode/devops-policies-mondoo) - OPA Policies for Mondoo (today)
+- [GurdipSCode/buildkite-terraform-infra-templates](https://github.com/GurdipSCode/buildkite-terraform-infra-templates) -  (today)
 - [GurdipSCode/devops-kubernetes-gitops-kubeshark](https://github.com/GurdipSCode/devops-kubernetes-gitops-kubeshark) -  (1 day ago)
-- [GurdipSCode/GurdipSCode](https://github.com/GurdipSCode/GurdipSCode) -  (1 day ago)
+- [GurdipSCode/devops-terraform-modules-github](https://github.com/GurdipSCode/devops-terraform-modules-github) - Terraform module for GitHub (1 day ago)
+- [GurdipSCode/devops-policies-victoriametrics](https://github.com/GurdipSCode/devops-policies-victoriametrics) - DevOps policies for Victoria Metrics (1 day ago)
 
 #### 🚀 Latest releases I contributed to
 
@@ -22,9 +22,9 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 #### ⭐ Latest repositories I starred
 
 - [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people! - 5704 stars
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers - 136381 stars
-- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources - 18212 stars
-- [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.  - 11315 stars
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers - 136380 stars
+- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources - 18214 stars
+- [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.  - 11316 stars
 - [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) - An encyclopedia for offensive and defensive security knowledge in cloud native technologies. - 2444 stars
 - [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇦🇪🇧🇦🇧🇷🇫🇷🇬🇪🇩🇪🇬🇷🇮🇱🇮🇳🇮🇩🇮🇹🇯🇵🇰🇷🇵🇱🇷🇴🇨🇳🇪🇸🇹🇷🇺🇦🇵🇰 - 2409 stars
 - [ramanagali/Interview_Guide](https://github.com/ramanagali/Interview_Guide) - Interview, Certification preparation guide for Cloud DevOps professionals - 531 stars
