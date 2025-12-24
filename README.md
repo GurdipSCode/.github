@@ -10,11 +10,11 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 #### 👷 I'm currently working on
 
+- [GurdipSCode/devops-policies-mondoo](https://github.com/GurdipSCode/devops-policies-mondoo) - OPA Policies for Mondoo (today)
 - [GurdipSCode/buildkite-terraform-infra-templates](https://github.com/GurdipSCode/buildkite-terraform-infra-templates) -  (today)
 - [GurdipSCode/devops-terraform-buildkite-scripts](https://github.com/GurdipSCode/devops-terraform-buildkite-scripts) - Terraform release scripts (today)
-- [GurdipSCode/devops-policies-mondoo](https://github.com/GurdipSCode/devops-policies-mondoo) - OPA Policies for Mondoo (today)
+- [GurdipSCode/devops-utils-opacommon](https://github.com/GurdipSCode/devops-utils-opacommon) - Common OPA Utilities (today)
 - [GurdipSCode/devops-policies-vault](https://github.com/GurdipSCode/devops-policies-vault) - OPA Policies for Vault (today)
-- [GurdipSCode/devops-kubernetes-gitops-robusta](https://github.com/GurdipSCode/devops-kubernetes-gitops-robusta) - Kubernetes ArgoCD manifests for Robusta (1 day ago)
 
 #### 🚀 Latest releases I contributed to
 
@@ -22,8 +22,8 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 #### ⭐ Latest repositories I starred
 
 - [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people! - 5704 stars
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers - 136388 stars
-- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources - 18226 stars
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers - 136389 stars
+- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources - 18227 stars
 - [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.  - 11317 stars
 - [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) - An encyclopedia for offensive and defensive security knowledge in cloud native technologies. - 2446 stars
 - [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇦🇪🇧🇦🇧🇷🇫🇷🇬🇪🇩🇪🇬🇷🇮🇱🇮🇳🇮🇩🇮🇹🇯🇵🇰🇷🇵🇱🇷🇴🇨🇳🇪🇸🇹🇷🇺🇦🇵🇰 - 2409 stars
