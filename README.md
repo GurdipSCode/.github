@@ -11,10 +11,10 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 #### 👷 I'm currently working on
 
 - [GurdipSCode/buildkite-terraform-infra-templates](https://github.com/GurdipSCode/buildkite-terraform-infra-templates) -  (today)
-- [GurdipSCode/devops-policies-mondoo](https://github.com/GurdipSCode/devops-policies-mondoo) - OPA Policies for Mondoo (today)
 - [GurdipSCode/devops-terraform-buildkite-scripts](https://github.com/GurdipSCode/devops-terraform-buildkite-scripts) - Terraform release scripts (today)
-- [GurdipSCode/devops-terraform-modules-github](https://github.com/GurdipSCode/devops-terraform-modules-github) - Terraform module for GitHub (1 day ago)
-- [GurdipSCode/devops-kubernetes-gitops-kubeshark](https://github.com/GurdipSCode/devops-kubernetes-gitops-kubeshark) -  (1 day ago)
+- [GurdipSCode/devops-policies-mondoo](https://github.com/GurdipSCode/devops-policies-mondoo) - OPA Policies for Mondoo (today)
+- [GurdipSCode/devops-policies-vault](https://github.com/GurdipSCode/devops-policies-vault) - OPA Policies for Vault (today)
+- [GurdipSCode/devops-kubernetes-gitops-robusta](https://github.com/GurdipSCode/devops-kubernetes-gitops-robusta) - Kubernetes ArgoCD manifests for Robusta (1 day ago)
 
 #### 🚀 Latest releases I contributed to
 
