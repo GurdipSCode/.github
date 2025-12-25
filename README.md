@@ -10,11 +10,11 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 #### 👷 I'm currently working on
 
-- [GurdipSCode/devops-utils-opacommon](https://github.com/GurdipSCode/devops-utils-opacommon) - Common OPA Utilities (1 day ago)
+- [GurdipSCode/devops-commonconfigs](https://github.com/GurdipSCode/devops-commonconfigs) - Common configuration files used in repos (today)
+- [GurdipSCode/devops-policies-vmware](https://github.com/GurdipSCode/devops-policies-vmware) - OPA Policies for VMWare (today)
+- [GurdipSCode/devops-utils-opacommon](https://github.com/GurdipSCode/devops-utils-opacommon) - Common OPA Utilities (today)
+- [GurdipSCode/devops-policies-mondoo](https://github.com/GurdipSCode/devops-policies-mondoo) - OPA Policies for Mondoo (1 day ago)
 - [GurdipSCode/buildkite-terraform-infra-templates](https://github.com/GurdipSCode/buildkite-terraform-infra-templates) -  (1 day ago)
-- [GurdipSCode/devops-policies-vault](https://github.com/GurdipSCode/devops-policies-vault) - OPA Policies for Vault (1 day ago)
-- [GurdipSCode/devops-terraform-buildkite-scripts](https://github.com/GurdipSCode/devops-terraform-buildkite-scripts) - Terraform release scripts (1 day ago)
-- [GurdipSCode/devops-policies-istio](https://github.com/GurdipSCode/devops-policies-istio) - OPA Policies for Istio (1 day ago)
 
 #### 🚀 Latest releases I contributed to
 
