@@ -10,11 +10,11 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 #### 👷 I'm currently working on
 
-- [GurdipSCode/devops-utils-opacommon](https://github.com/GurdipSCode/devops-utils-opacommon) - Common OPA Utilities (today)
-- [GurdipSCode/devops-terraform-modules-github](https://github.com/GurdipSCode/devops-terraform-modules-github) - Terraform module for GitHub (today)
-- [GurdipSCode/devops-policies-vmware](https://github.com/GurdipSCode/devops-policies-vmware) - OPA Policies for VMWare (today)
-- [GurdipSCode/devops-commonconfigs](https://github.com/GurdipSCode/devops-commonconfigs) - Common configuration files used in repos (today)
-- [GurdipSCode/devops-policies-istio](https://github.com/GurdipSCode/devops-policies-istio) - OPA Policies for Istio (1 day ago)
+- [GurdipSCode/devops-utils-opacommon](https://github.com/GurdipSCode/devops-utils-opacommon) - Common OPA Utilities (1 day ago)
+- [GurdipSCode/devops-terraform-modules-github](https://github.com/GurdipSCode/devops-terraform-modules-github) - Terraform module for GitHub (1 day ago)
+- [GurdipSCode/devops-policies-vmware](https://github.com/GurdipSCode/devops-policies-vmware) - OPA Policies for VMWare (1 day ago)
+- [GurdipSCode/devops-commonconfigs](https://github.com/GurdipSCode/devops-commonconfigs) - Common configuration files used in repos (1 day ago)
+- [GurdipSCode/devops-policies-istio](https://github.com/GurdipSCode/devops-policies-istio) - OPA Policies for Istio (2 days ago)
 
 #### 🚀 Latest releases I contributed to
 
