@@ -13,8 +13,8 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 - [GurdipSCode/devops-teamcity-kotlin-steps](https://github.com/GurdipSCode/devops-teamcity-kotlin-steps) - Reusable TeamCity steps (today)
 - [GurdipSCode/devops-terraform-buildkite-scripts](https://github.com/GurdipSCode/devops-terraform-buildkite-scripts) - Terraform release scripts (today)
 - [GurdipSCode/devops-terraform-services-github](https://github.com/GurdipSCode/devops-terraform-services-github) - Terraform services for GitHub (1 day ago)
-- [GurdipSCode/devops-policies-pwsh](https://github.com/GurdipSCode/devops-policies-pwsh) - OPA Policies for Powershell scripts (1 day ago)
 - [GurdipSCode/devops-terraform-buildkite-pipelines](https://github.com/GurdipSCode/devops-terraform-buildkite-pipelines) - Terraform pipelines for modules and services in BuildKite (1 day ago)
+- [GurdipSCode/devops-policies-pwsh](https://github.com/GurdipSCode/devops-policies-pwsh) - OPA Policies for Powershell scripts (1 day ago)
 
 #### 🚀 Latest releases I contributed to
 
@@ -22,7 +22,7 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 #### ⭐ Latest repositories I starred
 
 - [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people! - 5716 stars
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers - 136513 stars
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers - 136512 stars
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources - 18338 stars
 - [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.  - 11336 stars
 - [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) - An encyclopedia for offensive and defensive security knowledge in cloud native technologies. - 2455 stars
