@@ -10,11 +10,11 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 #### 👷 I'm currently working on
 
+- [GurdipSCode/devops-teamcity-kotlin-steps](https://github.com/GurdipSCode/devops-teamcity-kotlin-steps) - Reusable TeamCity steps (today)
 - [GurdipSCode/devops-terraform-buildkite-scripts](https://github.com/GurdipSCode/devops-terraform-buildkite-scripts) - Terraform release scripts (today)
-- [GurdipSCode/devops-terraform-buildkite-pipelines](https://github.com/GurdipSCode/devops-terraform-buildkite-pipelines) - Terraform pipelines for modules and services in BuildKite (1 day ago)
 - [GurdipSCode/devops-terraform-services-github](https://github.com/GurdipSCode/devops-terraform-services-github) - Terraform services for GitHub (1 day ago)
 - [GurdipSCode/devops-policies-pwsh](https://github.com/GurdipSCode/devops-policies-pwsh) - OPA Policies for Powershell scripts (1 day ago)
-- [GurdipSCode/devops-llm-promptengineering](https://github.com/GurdipSCode/devops-llm-promptengineering) -  (3 days ago)
+- [GurdipSCode/devops-terraform-buildkite-pipelines](https://github.com/GurdipSCode/devops-terraform-buildkite-pipelines) - Terraform pipelines for modules and services in BuildKite (1 day ago)
 
 #### 🚀 Latest releases I contributed to
 
