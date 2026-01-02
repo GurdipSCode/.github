@@ -10,11 +10,11 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 #### 👷 I'm currently working on
 
-- [GurdipSCode/devops-teamcity-kotlin-steps](https://github.com/GurdipSCode/devops-teamcity-kotlin-steps) - Reusable TeamCity steps (today)
-- [GurdipSCode/devops-terraform-buildkite-scripts](https://github.com/GurdipSCode/devops-terraform-buildkite-scripts) - Terraform release scripts (1 day ago)
-- [GurdipSCode/devops-terraform-services-github](https://github.com/GurdipSCode/devops-terraform-services-github) - Terraform services for GitHub (2 days ago)
-- [GurdipSCode/devops-policies-pwsh](https://github.com/GurdipSCode/devops-policies-pwsh) - OPA Policies for Powershell scripts (2 days ago)
-- [GurdipSCode/devops-terraform-buildkite-pipelines](https://github.com/GurdipSCode/devops-terraform-buildkite-pipelines) - Terraform pipelines for modules and services in BuildKite (2 days ago)
+- [GurdipSCode/devops-teamcity-kotlin-steps](https://github.com/GurdipSCode/devops-teamcity-kotlin-steps) - Reusable TeamCity steps (1 day ago)
+- [GurdipSCode/devops-terraform-buildkite-scripts](https://github.com/GurdipSCode/devops-terraform-buildkite-scripts) - Terraform release scripts (2 days ago)
+- [GurdipSCode/devops-terraform-services-github](https://github.com/GurdipSCode/devops-terraform-services-github) - Terraform services for GitHub (3 days ago)
+- [GurdipSCode/devops-policies-pwsh](https://github.com/GurdipSCode/devops-policies-pwsh) - OPA Policies for Powershell scripts (3 days ago)
+- [GurdipSCode/devops-terraform-buildkite-pipelines](https://github.com/GurdipSCode/devops-terraform-buildkite-pipelines) - Terraform pipelines for modules and services in BuildKite (3 days ago)
 
 #### 🚀 Latest releases I contributed to
 
@@ -22,9 +22,9 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 #### ⭐ Latest repositories I starred
 
 - [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people! - 5717 stars
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers - 136529 stars
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers - 136530 stars
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources - 18356 stars
-- [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.  - 11338 stars
+- [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.  - 11339 stars
 - [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) - An encyclopedia for offensive and defensive security knowledge in cloud native technologies. - 2455 stars
 - [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇦🇪🇧🇦🇧🇷🇫🇷🇬🇪🇩🇪🇬🇷🇮🇱🇮🇳🇮🇩🇮🇹🇯🇵🇰🇷🇵🇱🇷🇴🇨🇳🇪🇸🇹🇷🇺🇦🇵🇰 - 2411 stars
 - [ramanagali/Interview_Guide](https://github.com/ramanagali/Interview_Guide) - Interview, Certification preparation guide for Cloud DevOps professionals - 531 stars
