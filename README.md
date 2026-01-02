@@ -11,10 +11,10 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 #### 👷 I'm currently working on
 
 - [GurdipSCode/devops-teamcity-kotlin-steps](https://github.com/GurdipSCode/devops-teamcity-kotlin-steps) - Reusable TeamCity steps (today)
+- [GurdipSCode/devops-build-scripts](https://github.com/GurdipSCode/devops-build-scripts) - Scripts for the CI process - dotnet, Python, NPM, etc. (today)
 - [GurdipSCode/devops-terraform-buildkite-scripts](https://github.com/GurdipSCode/devops-terraform-buildkite-scripts) - Terraform release scripts (2 days ago)
-- [GurdipSCode/devops-terraform-services-github](https://github.com/GurdipSCode/devops-terraform-services-github) - Terraform services for GitHub (3 days ago)
-- [GurdipSCode/devops-policies-pwsh](https://github.com/GurdipSCode/devops-policies-pwsh) - OPA Policies for Powershell scripts (3 days ago)
 - [GurdipSCode/devops-terraform-buildkite-pipelines](https://github.com/GurdipSCode/devops-terraform-buildkite-pipelines) - Terraform pipelines for modules and services in BuildKite (3 days ago)
+- [GurdipSCode/devops-policies-pwsh](https://github.com/GurdipSCode/devops-policies-pwsh) - OPA Policies for Powershell scripts (3 days ago)
 
 #### 🚀 Latest releases I contributed to
 
@@ -22,13 +22,13 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 #### ⭐ Latest repositories I starred
 
 - [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people! - 5717 stars
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers - 136544 stars
-- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources - 18360 stars
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers - 136546 stars
+- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources - 18361 stars
 - [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.  - 11339 stars
 - [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) - An encyclopedia for offensive and defensive security knowledge in cloud native technologies. - 2456 stars
 - [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇦🇪🇧🇦🇧🇷🇫🇷🇬🇪🇩🇪🇬🇷🇮🇱🇮🇳🇮🇩🇮🇹🇯🇵🇰🇷🇵🇱🇷🇴🇨🇳🇪🇸🇹🇷🇺🇦🇵🇰 - 2411 stars
 - [ramanagali/Interview_Guide](https://github.com/ramanagali/Interview_Guide) - Interview, Certification preparation guide for Cloud DevOps professionals - 531 stars
-- [NotHarshhaa/DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) - 𝑫𝒆𝒗𝑶𝒑𝒔 𝑹𝒆𝒂𝒍 𝑾𝒐𝒓𝒍𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒔 [𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒕𝒐 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅] - 2925 stars
+- [NotHarshhaa/DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) - 𝑫𝒆𝒗𝑶𝒑𝒔 𝑹𝒆𝒂𝒍 𝑾𝒐𝒓𝒍𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒔 [𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒕𝒐 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅] - 2926 stars
 - [rohitg00/devops-interview-questions](https://github.com/rohitg00/devops-interview-questions) - Creating this repository as a central hub for all DevOps interview questions to help you land your next job. - 1721 stars
 - [ahmedtariq01/Cloud-DevOps-Learning-Resources](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources) - This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes. - 1733 stars
 
