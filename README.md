@@ -10,9 +10,9 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 #### 👷 I'm currently working on
 
+- [GurdipSCode/devops-policies-tetragon](https://github.com/GurdipSCode/devops-policies-tetragon) - OPA Policies for Tetragon (today)
 - [GurdipSCode/devops-terraform-services-github](https://github.com/GurdipSCode/devops-terraform-services-github) - Terraform services for GitHub (1 day ago)
 - [GurdipSCode/devops-kubernetes-gitops-kubetail](https://github.com/GurdipSCode/devops-kubernetes-gitops-kubetail) - GitOps manifests for Kubetail (1 day ago)
-- [GurdipSCode/devops-policies-tetragon](https://github.com/GurdipSCode/devops-policies-tetragon) - OPA Policies for Tetragon (1 day ago)
 - [GurdipSCode/devops-policies-kubernetes](https://github.com/GurdipSCode/devops-policies-kubernetes) - Kubernetes policies, powered by Kyverno. (1 day ago)
 - [GurdipSCode/devops-kubernetes-gitops-robusta](https://github.com/GurdipSCode/devops-kubernetes-gitops-robusta) - Kubernetes ArgoCD manifests for Robusta (2 days ago)
 
