@@ -10,11 +10,11 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 #### 👷 I'm currently working on
 
-- [GurdipSCode/devops-policies-tetragon](https://github.com/GurdipSCode/devops-policies-tetragon) - OPA Policies for Tetragon (today)
-- [GurdipSCode/devops-terraform-services-github](https://github.com/GurdipSCode/devops-terraform-services-github) - Terraform services for GitHub (1 day ago)
-- [GurdipSCode/devops-kubernetes-gitops-kubetail](https://github.com/GurdipSCode/devops-kubernetes-gitops-kubetail) - GitOps manifests for Kubetail (1 day ago)
-- [GurdipSCode/devops-policies-kubernetes](https://github.com/GurdipSCode/devops-policies-kubernetes) - Kubernetes policies, powered by Kyverno. (1 day ago)
-- [GurdipSCode/devops-kubernetes-gitops-robusta](https://github.com/GurdipSCode/devops-kubernetes-gitops-robusta) - Kubernetes ArgoCD manifests for Robusta (2 days ago)
+- [GurdipSCode/devops-policies-tetragon](https://github.com/GurdipSCode/devops-policies-tetragon) - OPA Policies for Tetragon (1 day ago)
+- [GurdipSCode/devops-terraform-buildkite-scripts](https://github.com/GurdipSCode/devops-terraform-buildkite-scripts) - Terraform release scripts (1 day ago)
+- [GurdipSCode/devops-terraform-services-github](https://github.com/GurdipSCode/devops-terraform-services-github) - Terraform services for GitHub (2 days ago)
+- [GurdipSCode/devops-kubernetes-gitops-kubetail](https://github.com/GurdipSCode/devops-kubernetes-gitops-kubetail) - GitOps manifests for Kubetail (2 days ago)
+- [GurdipSCode/devops-policies-kubernetes](https://github.com/GurdipSCode/devops-policies-kubernetes) - Kubernetes policies, powered by Kyverno. (2 days ago)
 
 #### 🚀 Latest releases I contributed to
 
@@ -23,7 +23,7 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 - [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people! - 5718 stars
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers - 136594 stars
-- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources - 18407 stars
+- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources - 18408 stars
 - [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.  - 11346 stars
 - [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) - An encyclopedia for offensive and defensive security knowledge in cloud native technologies. - 2459 stars
 - [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇦🇪🇧🇦🇧🇷🇫🇷🇬🇪🇩🇪🇬🇷🇮🇱🇮🇳🇮🇩🇮🇹🇯🇵🇰🇷🇵🇱🇷🇴🇨🇳🇪🇸🇹🇷🇺🇦🇵🇰 - 2411 stars
