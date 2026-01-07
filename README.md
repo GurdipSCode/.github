@@ -11,8 +11,8 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 #### 👷 I'm currently working on
 
 - [GurdipSCode/devops-terraform-modules-buildkite](https://github.com/GurdipSCode/devops-terraform-modules-buildkite) - Terraform module for Buildkite (today)
+- [GurdipSCode/devops-terraform-buildkite-scripts](https://github.com/GurdipSCode/devops-terraform-buildkite-scripts) - Terraform release scripts (today)
 - [GurdipSCode/devops-terraform-module-octopusdeploy](https://github.com/GurdipSCode/devops-terraform-module-octopusdeploy) - Terraform module for Octopus Deploy (today)
-- [GurdipSCode/devops-terraform-buildkite-scripts](https://github.com/GurdipSCode/devops-terraform-buildkite-scripts) - Terraform release scripts (2 days ago)
 - [GurdipSCode/devops-policies-tetragon](https://github.com/GurdipSCode/devops-policies-tetragon) - OPA Policies for Tetragon (2 days ago)
 - [GurdipSCode/devops-kubernetes-gitops-kubetail](https://github.com/GurdipSCode/devops-kubernetes-gitops-kubetail) - GitOps manifests for Kubetail (3 days ago)
 
@@ -22,8 +22,8 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 #### ⭐ Latest repositories I starred
 
 - [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people! - 5719 stars
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers - 136626 stars
-- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources - 18434 stars
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers - 136627 stars
+- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2025. with learning resources - 18435 stars
 - [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.  - 11354 stars
 - [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) - An encyclopedia for offensive and defensive security knowledge in cloud native technologies. - 2461 stars
 - [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇦🇪🇧🇦🇧🇷🇫🇷🇬🇪🇩🇪🇬🇷🇮🇱🇮🇳🇮🇩🇮🇹🇯🇵🇰🇷🇵🇱🇷🇴🇨🇳🇪🇸🇹🇷🇺🇦🇵🇰 - 2411 stars
