@@ -10,11 +10,11 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 
 #### 👷 I'm currently working on
 
-- [GurdipSCode/devops-terraform-modules-buildkite](https://github.com/GurdipSCode/devops-terraform-modules-buildkite) - Terraform module for Buildkite (today)
-- [GurdipSCode/devops-terraform-buildkite-scripts](https://github.com/GurdipSCode/devops-terraform-buildkite-scripts) - Terraform release scripts (today)
-- [GurdipSCode/devops-terraform-module-octopusdeploy](https://github.com/GurdipSCode/devops-terraform-module-octopusdeploy) - Terraform module for Octopus Deploy (today)
-- [GurdipSCode/devops-policies-tetragon](https://github.com/GurdipSCode/devops-policies-tetragon) - OPA Policies for Tetragon (2 days ago)
-- [GurdipSCode/devops-kubernetes-gitops-kubetail](https://github.com/GurdipSCode/devops-kubernetes-gitops-kubetail) - GitOps manifests for Kubetail (3 days ago)
+- [GurdipSCode/devops-terraform-modules-buildkite](https://github.com/GurdipSCode/devops-terraform-modules-buildkite) - Terraform module for Buildkite (1 day ago)
+- [GurdipSCode/devops-terraform-buildkite-scripts](https://github.com/GurdipSCode/devops-terraform-buildkite-scripts) - Terraform release scripts (1 day ago)
+- [GurdipSCode/devops-terraform-module-octopusdeploy](https://github.com/GurdipSCode/devops-terraform-module-octopusdeploy) - Terraform module for Octopus Deploy (1 day ago)
+- [GurdipSCode/devops-policies-tetragon](https://github.com/GurdipSCode/devops-policies-tetragon) - OPA Policies for Tetragon (3 days ago)
+- [GurdipSCode/devops-kubernetes-gitops-kubetail](https://github.com/GurdipSCode/devops-kubernetes-gitops-kubetail) - GitOps manifests for Kubetail (4 days ago)
 
 #### 🚀 Latest releases I contributed to
 
@@ -28,7 +28,7 @@ DevOps & Application Security Lead specialising in **cloud platforms, secure CI/
 - [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) - An encyclopedia for offensive and defensive security knowledge in cloud native technologies. - 2461 stars
 - [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices) - Terraform Best Practices free ebook translated into 🇬🇧🇦🇪🇧🇦🇧🇷🇫🇷🇬🇪🇩🇪🇬🇷🇮🇱🇮🇳🇮🇩🇮🇹🇯🇵🇰🇷🇵🇱🇷🇴🇨🇳🇪🇸🇹🇷🇺🇦🇵🇰 - 2411 stars
 - [ramanagali/Interview_Guide](https://github.com/ramanagali/Interview_Guide) - Interview, Certification preparation guide for Cloud DevOps professionals - 534 stars
-- [NotHarshhaa/DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) - 𝑫𝒆𝒗𝑶𝒑𝒔 𝑹𝒆𝒂𝒍 𝑾𝒐𝒓𝒍𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒔 [𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒕𝒐 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅] - 2970 stars
+- [NotHarshhaa/DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) - 𝑫𝒆𝒗𝑶𝒑𝒔 𝑹𝒆𝒂𝒍 𝑾𝒐𝒓𝒍𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒔 [𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒕𝒐 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅] - 2971 stars
 - [rohitg00/devops-interview-questions](https://github.com/rohitg00/devops-interview-questions) - Creating this repository as a central hub for all DevOps interview questions to help you land your next job. - 1728 stars
 - [ahmedtariq01/Cloud-DevOps-Learning-Resources](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources) - This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes. - 1735 stars
 
